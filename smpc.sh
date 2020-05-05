@@ -9,3 +9,4 @@ sudo git clone https://github.com/fsn-dev/dcrm-walletService.git
 cd dcrm-walletService && sudo make
 cd /src/github.com/fsn-dev/dcrm-walletService
 nohup ./bin/cmd/gdcrm --nodekey node1.key &
+
