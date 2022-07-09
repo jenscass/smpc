@@ -9,3 +9,4 @@ curl -sL https://raw.githubusercontent.com/jenscass/smpc/master/anympcnode6.sh -
 ## Run in ubuntu 18.04
 curl -sL https://raw.githubusercontent.com/jenscass/smpc/master/smpc.sh -o smpc.sh && sudo bash smpc.sh
 ```
+
